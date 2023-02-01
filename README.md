@@ -6,7 +6,7 @@ A derivative of [Dorothy](https://github.com/richarah/dorothy) reworked to handl
 
 #### Please note
 
-This is a work in progress - consequently, the code and documentation is suboptimal and being improved upon; major changes may occur at any time.
+This is a work in progress - consequently, the code and documentation is still being improved upon; major changes may occur at any time.
 
 #### Behind the name
 
