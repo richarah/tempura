@@ -2,7 +2,7 @@
 
 
 
-A derivative of [Dorothy](https://github.com/richarah/dorothy) reworked to handle the assignment framework for NTNUs *TDT4230 Graphics and Visualisation* course, primarily for compatibility with non-Windows machines.
+A derivative of [Dorothy](https://github.com/richarah/dorothy) reworked to handle the assignment framework for NTNUs *TDT4230 Graphics and Visualisation* course, primarily for compatibility with M1/M2 hardware (and non-Windows machines in general)
 
 #### Please note
 
