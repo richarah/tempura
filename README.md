@@ -10,7 +10,7 @@ This is a work in progress - consequently, the code and documentation is still b
 
 #### Behind the name
 
-The name refers to a Japanese dish in which various dainties are drenched in batter and deep-fried. Similarly, this program takes something delicate and encapsulates it in a crude wrapper, making it easier to handle and deploy while preserving its intricate insides.
+The name refers to a Japanese dish in which various dainties are drenched in batter and deep-fried. Similarly, this program takes something delicate & fussy and encapsulates it in a crude wrapper, making it easier to handle and deploy while preserving its intricate insides.
 
 Thus, it is the software equivalent of a deep-fried sushi.
 
